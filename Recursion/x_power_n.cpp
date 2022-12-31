@@ -15,7 +15,7 @@ int main()
     int x, n;
     cin >> x >> n;
     cout << xPowern(x, n)<<endl;
-    
+    // recursion continued
     
 
 }
